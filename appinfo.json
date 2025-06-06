@@ -1,0 +1,9 @@
+{
+  "id": "com.teedle.sayhi",
+  "version": "1.0.0",
+  "vendor": "your.name",
+  "type": "web",
+  "main": "index.html",
+  "title": "Teedle Says Hi",
+  "icon": "icon.png"
+}
